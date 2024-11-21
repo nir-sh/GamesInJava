@@ -1,0 +1,15 @@
+# Ignore IntelliJ IDEA project files
+.idea/
+
+# Ignore build output directories
+out/
+target/
+
+# Ignore specific directories
+jnoise-main/
+Foo/
+modern-backend-main/
+
+# Ignore system-specific or IDE-specific files (if applicable)
+*.iml
+.DS_Store
