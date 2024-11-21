@@ -13,3 +13,9 @@ modern-backend-main/
 # Ignore system-specific or IDE-specific files (if applicable)
 *.iml
 .DS_Store
+
+# Ignore everything under libs/DanoGameLab
+libs/DanoGameLab/*
+
+# Allow the .jar file to be included
+!libs/DanoGameLab/DanoGameLab.jar
